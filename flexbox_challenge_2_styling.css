@@ -1,0 +1,175 @@
+.flexcontainer1{
+    display:flex;
+    flex-direction:row;
+}
+.flexitems1{
+    height:560px;
+    width:300px;
+    border:2px solid navy;
+    border-radius:10px;
+    background-color:lightskyblue;
+    margin:6px;
+    
+}
+.image1{
+    height:240px;
+    width:300px;
+    border-radius: 8px;
+}
+.flexitems2{
+    height:560px;
+    width:300px;
+    border:2px solid navy;
+    border-radius:8px;
+    background-color:lightyellow;
+    margin:6px;
+    
+
+}
+.image2{
+    height:240px;
+    width:300px;
+    border-radius: 8px;
+}
+.flexitems3{
+    height:560px;
+    width:300px;
+    border:2px solid navy;
+    border-radius:8px;
+    background-color:lime;
+    margin:6px;
+    
+}
+.image3{
+    height:240px;
+    width:300px;
+    border-radius: 8px;
+}
+.heading1,.heading2,.heading3{
+    font-family:'Varela Round';
+    font-weight:600;
+    text-align:center;
+}
+.heading1{
+    color:darkblue;
+}
+.heading2{
+    color:darkgoldenrod;
+}
+.heading3{
+    color:darkgreen;
+}
+#para1,#para2,#para3{
+    text-align: justify;
+    margin:8px;
+    font-family:'Varela Round';
+    font-size:18px;
+    font-weight:400;
+}
+.button1,.button2,.button3{
+    height:50px;
+    width:140px;
+    position:relative;
+    left:80px;
+    top:20px;
+    border: 2px solid ;
+    border-radius:8px;
+    font-family:'Varela Round';
+    font-size:18px;
+    font-weight:600;
+    background-color:lightpink;
+}
+.button1:hover{
+    cursor:pointer;
+    background-color: hotpink;
+}
+.button2:hover{
+    cursor:pointer;
+    background-color: hotpink;
+}
+.button3:hover{
+    cursor:pointer;
+    background-color: hotpink;
+}
+.image4,.image5,.image6{
+    height:240px;
+    width:300px;
+    border-radius: 8px;
+}
+.flexcontainer2{
+    display:flex;
+    flex-direction: row;
+}
+.flexitems4{
+    height:560px;
+    width:300px;
+    border:2px solid navy;
+    border-radius:8px;
+    background-color:lightgreen;
+    margin:6px; 
+    
+}
+.flexitems5{
+    height:560px;
+    width:300px;
+    border:2px solid navy;
+    border-radius:8px;
+    background-color:yellow;
+    margin:6px;
+    
+}
+.flexitems6{
+    height:560px;
+    width:300px;
+    border:2px solid navy;
+    border-radius:8px;
+    background-color:plum;
+    margin:6px;
+    
+}
+.button4,.button5,.button6{
+    height:50px;
+    width:140px;
+    position:relative;
+    left:80px;
+    top:20px;
+    border: 2px solid ;
+    border-radius:8px;
+    font-family:'Varela Round';
+    font-size:18px;
+    font-weight:600;
+    background-color:lightpink;
+}
+.button4:hover{
+    cursor:pointer;
+    background-color: hotpink;
+}
+.button5:hover{
+    cursor:pointer;
+    background-color: hotpink;
+}
+.button6:hover{
+    cursor:pointer;
+    background-color:hotpink;
+}
+.heading4,.heading5,.heading6{
+    font-family:'Varela Round';
+    font-weight:600;
+    text-align:center;
+}
+.heading4{
+    color:darkgreen;
+}
+.heading5{
+    color:darkslategray;
+}
+.heading6{
+    color:darkmagenta;
+}
+#para4,#para5,#para6{
+    text-align: justify;
+    margin:8px;
+    font-family:'Varela Round';
+    font-size:18px;
+    font-weight:400;
+}
