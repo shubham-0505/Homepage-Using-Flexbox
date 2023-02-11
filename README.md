@@ -1,2 +1,2 @@
 Homepage Using Flexbox
-Check out this cool Homepage made by using flexbox and its properties
+Check out this cool Homepage made by using Flexbox and its properties
